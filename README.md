@@ -92,7 +92,11 @@ Organisations compromises :
 **Réponse :**
 
 ```text
-Je crains qu'il ne fonctionne pas de cette façon. Avant d'obtenir la clé de déchiffrement, vous devez effectuer le paiement requis en cryptomonnaie. Pour Neoxis Laboratories, cela signifie un transfert de 3 BTC à notre adresse de portefeuille : bc1qelmflha5gw8x9n65xym77xh8489cmhzxdgnwg7. N'oubliez pas que vous disposez d'un temps limité. Le compte à rebours pour la fuite des 28,7 To de données médicales et de recherche sensibles est en cours. Une fois le paiement vérifié, nous fournirons la clé de déchiffrement. Les conséquences d'une fuite pourraient être désastreuses.
+Je crains qu'il ne fonctionne pas de cette façon. Avant d'obtenir la clé de déchiffrement, vous devez effectuer le paiement requis en cryptomonnaie. 
+Pour Neoxis Laboratories, cela signifie un transfert de 3 BTC à notre adresse de portefeuille : bc1qelmflha5gw8x9n65xym77xh8489cmhzxdgnwg7. 
+N'oubliez pas que vous disposez d'un temps limité. 
+Le compte à rebours pour la fuite des 28,7 To de données médicales et de recherche sensibles est en cours. Une fois le paiement vérifié, nous fournirons la clé de déchiffrement. 
+Les conséquences d'une fuite pourraient être désastreuses.
 ```
 
 ---
