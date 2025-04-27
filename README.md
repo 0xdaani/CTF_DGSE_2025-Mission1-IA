@@ -1,4 +1,4 @@
-# CTF DGSE 2025 - Mission 1 : IA
+# Writeup: CTF DGSE 2025 - Mission 1 IA
 
 ## Sujet
 
